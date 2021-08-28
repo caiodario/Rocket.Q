@@ -15,5 +15,6 @@ Rocket.Q its a anonymous ask me anything website class project given by [Rockets
 
 ## License
 
-MIT
 ![Its Free Real State](https://i.redd.it/cmgul1yfizb71.gif)
+
+**MIT**
