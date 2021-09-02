@@ -13,8 +13,4 @@ Rocket.Q its a anonymous ask me anything website class project given by [Rockets
 -  You can create your own anonymous asking room and share with your friends
 -  Room leaders can read, answer and delete question
 
-## License
-
 ![Its Free Real State](https://i.redd.it/cmgul1yfizb71.gif)
-
-**MIT**
