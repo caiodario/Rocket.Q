@@ -2,7 +2,7 @@
 
 ## Anonymous AMA
 
-Rocket.Q its a anonymous ask me anything website class project given by [Rocketseat](https://nextlevelweek.com/pre-nlw), build in **HTML, CSS, JavaScript and Node.js with EJS & Express.js**
+Rocket.Q its a anonymous ask me anything website class project given by [Rocketseat](https://nextlevelweek.com/pre-nlw), build in **HTML, CSS, JavaScript and Node.js with Express.js & EJS Templates**
 
 -  Create anonymous question rooms or
 -  Enter your friends rooms
