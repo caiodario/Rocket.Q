@@ -7,6 +7,7 @@ Rocket.Q its a anonymous ask me anything website class project given by [Rockets
 -  Create anonymous question rooms or
 -  Enter your friends rooms
 -  Ask anything and wait for the room leader aswer it :D
+-  Delete questions you dont wanna answer or mark as read the question you already view
 
 ## Features
 
